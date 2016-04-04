@@ -1,0 +1,12 @@
+
+ Performance counter stats for 'python2 video_control.py':
+
+       1622.718560      task-clock (msec)         #    0.160 CPUs utilized          
+            32,533      context-switches          #    0.020 M/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               593      page-faults               #    0.365 K/sec                  
+     1,391,213,964      cycles                    #    0.857 GHz                    
+       550,497,919      instructions              #    0.40  insns per cycle        
+
+      10.135561686 seconds time elapsed
+

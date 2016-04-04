@@ -1,0 +1,2 @@
+python ~/Documents/lab2/video_control.py > /dev/null &
+sudo SDL_VIDEODRIVER=fbcon SDL_FBDEV=/dev/fb1 mplayer -vo sdl -framedrop -slave -input file=video_fifo bunny.mp4
